@@ -2,21 +2,61 @@
 
 > 同济大学张子豪 
 >
-> 第十五稿 2019-04-04
+> 第十七稿 2019-04-09
 
 ![光纤：信息时代的基石](https://upload-images.jianshu.io/upload_images/13714448-3a67d1a193ff960d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-目录：
+**目录**
 
 [TOC]
 
-# 开场视频与破冰
+# 开场视频与趣味破冰
 
+## 视频：海底光缆是如何埋进去的？
 
+[源视频：【发兔冷知识】海洋深达几千米，海底光缆是如何埋进去的？](<https://www.bilibili.com/video/av30632415?from=search&seid=17555904307708582382>)<br>
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=30632415&cid=53468474&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+## 视频：全球互联网海底光缆铺设线路图
+
+[源视频：全球互联网海底光缆铺设线路图](<https://www.bilibili.com/video/av4977540?from=search&seid=17555904307708582382>)<br>
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=4977540&cid=8084632&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+## 视频：国外牛人用小实验揭示光纤是如何工作的
+
+[源视频：国外牛人用小实验揭示光纤是如何工作的](<http://www.iqiyi.com/w_19ryrhxay1.html>)<br>
+
+<iframe height=498 width=510 src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=3bbe6021e7b2c2435e1cbd5a83368d9c&tvId=19313325509&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="100%"></iframe>
+
+## 视频：光纤是怎么制造出来的？看完解开多年疑惑
+
+[源视频：国外牛人用小实验揭示光纤是如何工作的](<http://www.iqiyi.com/w_19rtusunlt.html>)<br>
+
+<iframe height=498 width=510 src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=587437a7b2cb79f41bcbe73ec777ebfe&tvId=8337510509&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="100%"></iframe>
+
+## 视频：一根光纤线的数据传输量能有多大, 看完这个视频你就明白了
+
+[源视频：一根光纤线的数据传输量能有多大, 看完这个视频你就明白了](<https://v.youku.com/v_show/id_XMjg1ODQ0ODAxMg==.html?spm=a2h0k.11417342.soresults.dtitle>)<br>
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMjg1ODQ0ODAxMg==' frameborder=0 'allowfullscreen'></iframe>
+
+## 视频：300亿人一根光纤上通话
+
+[源视频：300亿人一根光纤上通话](<https://www.iqiyi.com/v_19rqvb9ucs.html>)<br>
+
+<iframe height=498 width=510 src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=412f1c8cb8adac03b4c01c6e36de18fa&tvId=2136035200&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="100%"></iframe>
 
 # 提问与引出
 
+## 你知道微信的消息是怎么传输给对方的吗？
 
+## 你知道中国和美国的“飞鸽传书”是如何实现的吗？
+
+## 你知道为什么信号跨越万里却不会丢失吗？
+
+## 你知道跨海电缆是如何铺设的吗？
 
 # 趣味实验1：光纤灯制作
 
@@ -30,47 +70,58 @@
 
 光在光纤中的传播：光的全反射。
 
+## 实验完整视频
+
+[源视频：神奇科学实验：美丽的光纤灯](<http://www.iqiyi.com/w_19s2gwzsk1.html>)<br>
+
+<iframe height=498 width=510 src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=130219276b2df51a3ffebc5b5507c7ba&tvId=24129870909&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="100%"></iframe>
+
 ## 实验准备：材料包
 
 ![实验材料准备](https://upload-images.jianshu.io/upload_images/13714448-0d5bdefe01744620.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 实验步骤
 
-#### 第一步：灯架组装
+### 第一步：灯架组装
 
 
 
 ![第一步](https://upload-images.jianshu.io/upload_images/13714448-6dfd46180cdc2c32.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 第二步：连接电池盒
+### 第二步：连接电池盒
 
 ![第二步.jpg](https://upload-images.jianshu.io/upload_images/13714448-2d4a59a496cc80b0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 第三步：粘贴电池盒到灯架上
+### 第三步：粘贴电池盒到灯架上
 
 ![第三步.jpg](https://upload-images.jianshu.io/upload_images/13714448-afac813c3862c1f8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 第四步：LED灯连接电池盒
+### 第四步：LED灯连接电池盒
 
 ![第四步.jpg](https://upload-images.jianshu.io/upload_images/13714448-cf5aad84fd36e114.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 第五步：将LED灯套进木条
+### 第五步：将LED灯套进木条
 
 ![第五步.jpg](https://upload-images.jianshu.io/upload_images/13714448-c89230adb3c41c6b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 第六步：插入光纤束
+### 第六步：插入光纤束
 
 ![第六步.jpg](https://upload-images.jianshu.io/upload_images/13714448-73816f5818830481.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 提问与思考
 
+### 光纤灯中的光是如何传播的？
 
+### 怎么能让光纤灯发出七彩光？
+
+### 试试把光纤多绕几个弯儿，还能看到光点吗？
 
 ## 实验注意事项
 
-- 电池不可短路
+- 电池不可短路连接，如不小心短路连接需迅速断开并防止起火
 - 勿让孩子吞食或咬光纤
-- 红蓝双线勿接错
+- 红蓝双线勿接错接反
+- 实验结束后光纤应妥善整理收纳，以供回收使用
 
 # 趣味实验2：拐弯的光——光沿水流曲线传播
 
@@ -129,9 +180,13 @@
 
 ### 为什么光会拐弯？
 
-我们平时用激光笔只知道光可以直线传播，现在为什么会顺着水流曲线传播？
+我们平时用激光笔只知道光可以直线传播（如下图），现在为什么会顺着水流曲线传播？
 
 ![光沿直线传播](https://upload-images.jianshu.io/upload_images/13714448-7c17880ee9f753ca.gif?imageMogr2/auto-orient/strip)
+
+### 除了在水里，光还能在哪些材料里拐弯传播？
+
+玻璃、透明塑料、树脂，只要是光密介质即可。
 
 ### 把光“掰弯”有什么应用？
 
@@ -177,17 +232,53 @@
 
 ![光纤传输的信息量](https://upload-images.jianshu.io/upload_images/13714448-22f5fba4495daf2d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![光缆传输信息的速度.gif](https://upload-images.jianshu.io/upload_images/13714448-f00a782d0dd70c39.gif?imageMogr2/auto-orient/strip)
+
 要通过电子手段传输同样数量的信息，你需要将近40万对标准的绞合铜线，也就是880吨铜！
 
 ![传递同带宽信息需要的双绞线](https://upload-images.jianshu.io/upload_images/13714448-3c8f1db7b4eeabcb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-> 提问：为什么光纤传递信息又多又快？
->
-> 答案：光的频率高，能够搭载的信息多。光的速度快，传递的信息就快。
+
 
 ### 海底光缆
 
+[源视频：【发兔冷知识】海洋深达几千米，海底光缆是如何埋进去的？](<https://www.bilibili.com/video/av30632415?from=search&seid=17555904307708582382>)<br>
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=30632415&cid=53468474&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[源视频：全球互联网海底光缆铺设线路图](<https://www.bilibili.com/video/av4977540?from=search&seid=17555904307708582382>)<br>
+
+<iframe height=498 width=510 src="//player.bilibili.com/player.html?aid=4977540&cid=8084632&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ![光纤通讯电缆](https://upload-images.jianshu.io/upload_images/13714448-d806d3990c0db416.jpg?imageMogr2/auto-orient/strip)
+
+# 趣味提问
+
+## 提问：谁发明了光纤？
+
+答案：华人科学家高锟
+
+## 提问：为什么光纤传递信息又多又快？
+
+答案：光的频率高，能够搭载的信息多。光的速度快，传递的信息就快。
+
+## 提问：一根光纤每秒钟传送的信息能填满多少张DVD光盘？
+
+答案：250张DVD被填满。
+
+## 提问：一根光纤每秒钟传送的信息相当于多少部高清电影？
+
+答案：17000部。
+
+## 提问：海底光缆是如何铺设的？
+
+答案：光缆铺设船，在海底开沟槽，将光缆埋设其中。
+
+## 提问：你知道历史上谁第一个做光沿水流曲线传播的实验吗？
+
+答案：英国物理学家丁达尔
+
+## 提问：请阅读扩展材料，了解“光纤之父”高锟，谈谈你的读后感
 
 # 扩展阅读：康宁光纤与“光纤之父”高琨——勤奋与质疑改变世界
 
